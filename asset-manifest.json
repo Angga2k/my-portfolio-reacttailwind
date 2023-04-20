@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-portfolio-reacttailwind/static/css/main.e27f0a36.css",
+    "main.js": "/my-portfolio-reacttailwind/static/js/main.5ddc7c87.js",
+    "static/js/787.3b265693.chunk.js": "/my-portfolio-reacttailwind/static/js/787.3b265693.chunk.js",
+    "static/media/angga2.png": "/my-portfolio-reacttailwind/static/media/angga2.cc381d946a00f0a87f15.png",
+    "static/media/project1.png": "/my-portfolio-reacttailwind/static/media/project1.903e75c53a0424ac0e54.png",
+    "static/media/angga3.png": "/my-portfolio-reacttailwind/static/media/angga3.40833d722dd64240a790.png",
+    "static/media/project3.png": "/my-portfolio-reacttailwind/static/media/project3.93e20bc00bbcce10088a.png",
+    "static/media/project4.png": "/my-portfolio-reacttailwind/static/media/project4.eb24be5be68b5c1dc279.png",
+    "static/media/Picture2.png": "/my-portfolio-reacttailwind/static/media/Picture2.e046685754a3c3542295.png",
+    "static/media/CV_ANGGA.pdf": "/my-portfolio-reacttailwind/static/media/CV_ANGGA.910725a06b92f7cd4f70.pdf",
+    "static/media/logo.png": "/my-portfolio-reacttailwind/static/media/logo.24a16836a0efcdde5c03.png",
+    "index.html": "/my-portfolio-reacttailwind/index.html",
+    "main.e27f0a36.css.map": "/my-portfolio-reacttailwind/static/css/main.e27f0a36.css.map",
+    "main.5ddc7c87.js.map": "/my-portfolio-reacttailwind/static/js/main.5ddc7c87.js.map",
+    "787.3b265693.chunk.js.map": "/my-portfolio-reacttailwind/static/js/787.3b265693.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e27f0a36.css",
+    "static/js/main.5ddc7c87.js"
+  ]
+}
